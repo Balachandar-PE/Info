@@ -1,0 +1,3 @@
+CLOUD:
+AWS:
+  1. IOPS is a bustable resource, provisoned IOPS is the promise to provide this resouce at all times. <https://serverfault.com/questions/924709/amazon-rds-why-do-i-get-more-iops-than-i-have-provisioned>
